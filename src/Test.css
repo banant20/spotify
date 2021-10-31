@@ -1,0 +1,13 @@
+.test {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: black;
+    color: navajowhite;
+}
+
+.frame {
+    border: 20px solid;
+    border-color: #1DB954;
+    padding: 30px 30px;
+}
